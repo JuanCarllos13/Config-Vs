@@ -119,6 +119,19 @@ Para obter uma prévia das minhas configurações personalizadas do VS Code, voc
 
 Se você quiser contribuir com a lista de extensões, fique à vontade para abrir uma issue ou enviar um pull request.
 
-## Licença
+## 👨‍💻 Autor<br>
 
-Este repositório está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter mais detalhes.
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/JuanCarllos13">
+        <img src="https://github.com/JuanCarllos13.png" width="150px;" height="150px" alt="Foto do Juan no GitHub"/><br>
+        <sub>
+          <b>JUAN CARLOS</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
+</table>
+<hr>
