@@ -1,4 +1,19 @@
-# Minhas Extensões do VS Code
+<div align="center">
+  <img src="logo.png" alt="Logo do Projeto" width="200">
+</div>
+
+<h1 align="center">Minhas Extensões do VS Code</h1>
+
+<p align="center">
+  <strong>Lista das extensões do Visual Studio Code que utilizo e recomendo.</strong>
+</p>
+
+<p align="center">
+  Criado por: Juan Carlos Costa do Amaral<br>
+  Desenvolvedor Fullstack
+</p>
+
+## Sobre
 
 Este repositório contém uma lista das extensões do Visual Studio Code que eu utilizo e recomendo. As extensões fornecem recursos adicionais que podem ajudar a melhorar a produtividade e a experiência de desenvolvimento no VS Code.
 
