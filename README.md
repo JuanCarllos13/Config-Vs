@@ -112,7 +112,7 @@ Este repositório contém uma lista das extensões do Visual Studio Code que eu 
   
 ## Configurações
 
-Para obter uma prévia das minhas configurações personalizadas do VS Code, você pode conferir o arquivo [config.json](https://github.com/JuanCarllos13/Config-Vs/blob/master/config.json). Ele inclui configurações específicas, como atalhos de teclado, preferências de tema, extensões recomendadas e muito mais.
+Para obter uma prévia das minhas configurações personalizadas do VS Code, você pode conferir o arquivo [settings.json](https://github.com/JuanCarllos13/Config-Vs/blob/master/settings.json). Ele inclui configurações específicas, como atalhos de teclado, preferências de tema, extensões recomendadas e muito mais.
 
 
 ## Contribuição
