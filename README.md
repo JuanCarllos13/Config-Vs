@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="logo.png" alt="Logo do Projeto" width="200">
+  
+  ![62a79035e42d729d928b1755](https://github.com/JuanCarllos13/Config-Vs/assets/86435195/0c0d1d46-5a0e-489e-912b-58cae12fcbc3)
+
 </div>
 
 <h1 align="center">Minhas Extensões do VS Code</h1>
