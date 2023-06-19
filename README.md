@@ -108,6 +108,10 @@ Este repositório contém uma lista das extensões do Visual Studio Code que eu 
 - **vscode-styled-components**
   - Descrição: Sintaxe destacada para arquivos de componentes styled-components.
   - [Link para instalação](https://marketplace.visualstudio.com/items?itemName=styled-components.vscode-styled-components)
+ 
+- **ChatGPT**
+  - Descrição: ChatGPT.
+  - [Link para instalação](https://marketplace.visualstudio.com/items?itemName=zhang-renyang.chat-gpt)  
   
   
 ## Configurações
