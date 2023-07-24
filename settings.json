@@ -1,4 +1,6 @@
 {
+  // VSCode
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
   "emmet.syntaxProfiles": {
     "javascript": "jsx"
   },
@@ -7,7 +9,8 @@
   "javascript.suggest.autoImports": true,
   "javascript.updateImportsOnFileMove.enabled": "always",
   "extensions.ignoreRecommendations": true,
-  "editor.fontFamily": "Fira Code Retina",
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
   "typescript.tsserver.log": "off",
   "files.associations": {
     ".sequelizerc": "javascript",
@@ -27,18 +30,20 @@
     "middlewares",
     "nativewind",
     "nextauth",
+    "possivel",
     "Pressable",
     "roboto",
     "rocketseat",
     "springify",
     "swipeable",
     "tailwindcss",
-    "Unixcard"
+    "Unixcard",
+    "vsintellicode"
   ],
   "editor.parameterHints.enabled": false,
   "editor.renderLineHighlight": "gutter",
   "cSpell.language": "en,pt_BR",
-  "editor.lineHeight": 26,
+  "editor.lineHeight": 20,
   "material-icon-theme.languages.associations": {
     "dotenv": "tune"
   },
@@ -64,7 +69,6 @@
     "FIG_NEW_SESSION": "1"
   },
   "workbench.editor.labelFormat": "short",
-  "editor.fontLigatures": true,
   "emmet.includeLanguages": {
     "javascript": "javascriptreact"
   },
@@ -127,13 +131,14 @@
   "terminal.integrated.fontSize": 14,
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": true,
-    "source.addMissingImports": true,
-    "source.organizeImports": true
+    "source.addMissingImports": true
   },
+  "eslint.validate": ["javascript", "javascriptreact", "graphql"],
   "eslint.workingDirectories": ["./"],
   "editor.semanticHighlighting.enabled": false,
   "breadcrumbs.enabled": true,
   "gitlens.codeLens.authors.enabled": false,
+  "workbench.productIconTheme": "fluent-icons",
   "editor.tabSize": 2,
   "security.workspace.trust.untrustedFiles": "newWindow",
   "files.exclude": {
@@ -145,10 +150,13 @@
   },
   "gitlens.codeLens.enabled": false,
   "workbench.iconTheme": "material-icon-theme",
+  "workbench.editor.untitled.hint": "hidden",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "window.commandCenter": true,
+  "git.openRepositoryInParentFolders": "always",
   "[jsonc]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "terminal.integrated.defaultProfile.windows": "Git Bash",
   "[typescriptreact]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
@@ -171,5 +179,16 @@
   },
   "[javascriptreact]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
-  }
+  },
+  "terminal.integrated.defaultProfile.osx": "zsh",
+  "git.autofetch": true,
+
+  // Discord Presence
+  "discord.detailsIdling": "👀 Procurando nos Arquivos...",
+  "discord.detailsEditing": "☕ {file_name} com {file_size}",
+  "discord.largeImageIdling": "⏲️ Código, Café e Pomodoro",
+  "discord.lowerDetailsDebugging": "🐛 Debugging: {git_branch}",
+  "discord.lowerDetailsEditing": "📦 Projeto: {workspace}",
+  "discord.lowerDetailsIdling": "☕ Hora do café",
+  "discord.lowerDetailsNoWorkspaceFound": "{file_size}"
 }
